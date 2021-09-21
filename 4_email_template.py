@@ -25,3 +25,4 @@ html_body = """
 
 message.HTMLBody = html_body
 message.HTMLBody = html_body.format('Richard')
+# %%
